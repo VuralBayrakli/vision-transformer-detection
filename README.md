@@ -21,3 +21,16 @@ Eğitilmiş modeli [buradan](https://drive.google.com/file/d/1-V9aQpRVKR_pZO24K7
 ```bash
     python inference.py --model <model_path> --image <image_path>
 ```
+
+## Test Görüntüleri
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res1.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res2.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res3.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res4.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res5.png)
+
+![App Screenshot](https://github.com/VuralBayrakli/vision-transformer-detection/blob/master/results/res6.png)
