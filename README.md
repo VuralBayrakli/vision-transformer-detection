@@ -16,3 +16,8 @@ Eğitilmiş modeli [buradan](https://drive.google.com/file/d/1-V9aQpRVKR_pZO24K7
 ```bash
     pip install -r requirements.txt
 ```
+
+## Modeli kullanın
+```bash
+    python inference.py --model <model_path> --image <image_path>
+```
