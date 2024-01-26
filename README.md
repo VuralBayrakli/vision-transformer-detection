@@ -1,6 +1,6 @@
 # Vision Transformer ile Ateş Tespiti
 
-Geleneksel nesne algılama yöntemlerinin ötesine geçen bir yaklaşım olan Vision Transformer (ViT) ile DINO modelini kullanarak gerçekleştirdiğim nesne algılama projesi, ateş tespitini sağlar. Kendi veri setimi kullanarak DINO modelini ateş tespiti gerçekleştirecek şekilde eğittim.
+Geleneksel nesne algılama yöntemlerinin ötesine geçen bir yaklaşım olan Vision Transformers yapısını içeren DINO modelini kullanarak gerçekleştirdiğim bu projede projede ateş tespitini sağlamaya çalıştım. Kendi veri setimi kullanarak DINO modelini ateş tespiti gerçekleştirecek şekilde eğittim.
 
 ## Projeyi yükleyin
 
