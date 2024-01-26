@@ -8,6 +8,11 @@ Geleneksel nesne algılama yöntemlerinin ötesine geçen bir yaklaşım olan Vi
     git clone https://github.com/VuralBayrakli/vision-transformer-detection.git
 ```
 
+## DINO projesini indirin ve ana dizine atın
+```bash
+    git clone https://github.com/IDEA-Research/DINO.git
+```
+
 ## Modeli indirin
 Eğitilmiş modeli [buradan](https://drive.google.com/file/d/1-V9aQpRVKR_pZO24K7DX2kALuqSpTGTo) indirin ve projenin kök dizinine yerleştirin.
 
